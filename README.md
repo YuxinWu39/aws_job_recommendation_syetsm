@@ -12,4 +12,5 @@ Instruction:
 
 To use this system on your local computer. You will need to download the Tomcat v9.0 server. Connect to the server in your IDE(if you are using IntelliJ, you can connect your server in the Configuration section). After that, you should connect to Apache Server and MySQL database on Amazon RDS. At last, in your browser, type in http://localhost:8080/jupiter/ (or your specified port number). Then you will see the page. If you are a first-time user of the platform, please register first.
 
+Demo:
 Demo Project Demo Link: https://vimeo.com/561481574/54009f622c
